@@ -3,7 +3,7 @@ void main()
 {
         int i,a;
 	float b,c;
-        printf("enter how much times the mathematician wants to get back\n");
+        printf("enter how much times the lady mathematician wants to get back\n");
         scanf("%d",&a); 
         float arr[a];
         arr[0]=.5;
